@@ -1647,5 +1647,23 @@ h1, h2, h3, h4, h5, h6, figure {
 .js .animate-box {
   opacity: 0;
 }
+footer.footer111 
+{
+	 display:block;clear:both;background:#044C65;}
+.footer111 #social_111 a:hover img {
+filter:blur(3px);
+}
+.footer111 #social_111 a {margin:0.5em;}
+#social_111 ,.addit_stuff {
+display:-webkit-flex;
+display:-moz-flex;
+display:-o-flex;
+display:flex;
+
+flex-direction:row;
+justify-content:center;
+width:100%;
+}
+div.addit_stuff  a{text-decoration:none;color:black;}
 
 /*# sourceMappingURL=style.css.map */
